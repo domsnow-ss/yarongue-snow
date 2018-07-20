@@ -6,6 +6,7 @@
                 <element label="New" sequence="0" value="new"/>
                 <element label="Read" sequence="1" value="read"/>
                 <element label="Deleted" sequence="2" value="deleted"/>
+                <element label="Foo" sequence="3" value="foo"/>
             </choice>
         </element>
     </element>
