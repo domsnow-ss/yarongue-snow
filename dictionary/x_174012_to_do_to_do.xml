@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<database>
+<?xml version="1.0" encoding="UTF-8"?><database>
     <element attributes="update_synch=true" extends="sys_metadata" label="To Do" max_length="40" name="x_174012_to_do_to_do" type="collection">
         <element attributes="edge_encryption_enabled=true" choice="3" default="new" label="Status" mandatory="true" max_length="40" name="u_status" type="string">
             <choice>
-                <element label="New" sequence="0" value="new"/>
-                <element label="Read" sequence="1" value="read"/>
-                <element label="Deleted" sequence="2" value="deleted"/>
-                <element label="Foo" sequence="3" value="foo"/>
+                <element inactive_on_update="false" label="New" sequence="0" value="new"/>
+                <element inactive_on_update="false" label="Read" sequence="1" value="read"/>
+                <element inactive_on_update="false" label="Deleted" sequence="2" value="deleted"/>
+                <element inactive_on_update="false" label="Foo" sequence="3" value="foo"/>
             </choice>
         </element>
     </element>

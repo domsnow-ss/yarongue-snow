@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="DELETE" field="u_status" table="x_174012_to_do_to_do" version="3">
+        <sys_choice_set action="DELETE">
+            <element>u_status</element>
+            <name>x_174012_to_do_to_do</name>
+            <sys_class_name/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on/>
+            <sys_id>d5f704872f0a10102141d2172799b627</sys_id>
+            <sys_mod_count/>
+            <sys_name>u_status</sys_name>
+            <sys_package display_value="To Do" source="x_174012_to_do">893bdee3db131300deb217803996193b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="To Do">893bdee3db131300deb217803996193b</sys_scope>
+            <sys_update_name>sys_choice_x_174012_to_do_to_do_u_status</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-21 01:53:28</sys_updated_on>
+        </sys_choice_set>
+        <sys_update_version action="INSERT_OR_UPDATE">
+            <action>INSERT_OR_UPDATE</action>
+            <application display_value="To Do">893bdee3db131300deb217803996193b</application>
+            <file_path/>
+            <instance_id>2766a181db8fdb807d8cf22ebf9619ea</instance_id>
+            <instance_name>dev63008</instance_name>
+            <name>sys_choice_x_174012_to_do_to_do_u_status</name>
+            <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_choice action="INSERT_OR_UPDATE" field="u_status" table="x_174012_to_do_to_do" version="3"><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>u_status</element><hint/><inactive>false</inactive><label>New</label><language>en</language><name>x_174012_to_do_to_do</name><sequence>0</sequence><sys_created_by>admin</sys_created_by><sys_created_on>2020-07-21 01:31:44</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>11f704872f0a10102141d2172799b627</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-07-21 01:31:44</sys_updated_on><value>new</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>u_status</element><hint/><inactive>false</inactive><label>Read</label><language>en</language><name>x_174012_to_do_to_do</name><sequence>1</sequence><sys_created_by>admin</sys_created_by><sys_created_on>2020-07-21 01:31:44</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>51f704872f0a10102141d2172799b627</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-07-21 01:31:44</sys_updated_on><value>read</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>u_status</element><hint/><inactive>false</inactive><label>Deleted</label><language>en</language><name>x_174012_to_do_to_do</name><sequence>2</sequence><sys_created_by>admin</sys_created_by><sys_created_on>2020-07-21 01:31:44</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>91f704872f0a10102141d2172799b627</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-07-21 01:31:44</sys_updated_on><value>deleted</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>u_status</element><hint/><inactive>false</inactive><label>Foo</label><language>en</language><name>x_174012_to_do_to_do</name><sequence>3</sequence><sys_created_by>admin</sys_created_by><sys_created_on>2020-07-21 01:31:44</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>d1f704872f0a10102141d2172799b627</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-07-21 01:31:44</sys_updated_on><value>foo</value></sys_choice><sys_choice_set action="INSERT_OR_UPDATE"><element>u_status</element><name>x_174012_to_do_to_do</name><sys_class_name>sys_choice_set</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-07-21 01:31:44</sys_created_on><sys_id>d5f704872f0a10102141d2172799b627</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_status</sys_name><sys_package display_value="To Do" source="x_174012_to_do">893bdee3db131300deb217803996193b</sys_package><sys_policy/><sys_scope display_value="To Do">893bdee3db131300deb217803996193b</sys_scope><sys_update_name>sys_choice_x_174012_to_do_to_do_u_status</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-07-21 01:31:44</sys_updated_on></sys_choice_set></sys_choice></record_update>]]></payload>
+            <payload_hash>-218064509</payload_hash>
+            <record_name>To Do.Status</record_name>
+            <reverted_from/>
+            <source>5357b3322f0210102141d2172799b675</source>
+            <source_table>sys_upgrade_history</source_table>
+            <state>previous</state>
+            <sys_created_by/>
+            <sys_created_on>2020-07-21 00:19:13</sys_created_on>
+            <sys_id>adf704872f0a10102141d2172799b665</sys_id>
+            <sys_mod_count/>
+            <sys_recorded_at>1736ebd17e80000000</sys_recorded_at>
+            <sys_updated_by/>
+            <sys_updated_on/>
+            <type>Choice list</type>
+            <update_guid>6df70487f00a1010a075bed8e9647165</update_guid>
+            <update_guid_history>6df70487f00a1010a075bed8e9647165:-218064509</update_guid_history>
+        </sys_update_version>
+        <sys_metadata_delete action="INSERT_OR_UPDATE">
+            <sys_audit_delete/>
+            <sys_class_name>sys_metadata_delete</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-21 01:31:44</sys_created_on>
+            <sys_db_object display_value="" name="sys_choice_set">sys_choice_set</sys_db_object>
+            <sys_id>d5f704872f0a10102141d2172799b627</sys_id>
+            <sys_metadata>d5f704872f0a10102141d2172799b627</sys_metadata>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_status</sys_name>
+            <sys_package display_value="To Do" source="x_174012_to_do">893bdee3db131300deb217803996193b</sys_package>
+            <sys_parent/>
+            <sys_policy/>
+            <sys_scope display_value="To Do">893bdee3db131300deb217803996193b</sys_scope>
+            <sys_scope_delete display_value="">199cea9efacb45e090e7ffeb3b9acb09</sys_scope_delete>
+            <sys_update_name>sys_choice_x_174012_to_do_to_do_u_status</sys_update_name>
+            <sys_update_version display_value="sys_choice_x_174012_to_do_to_do_u_status">adf704872f0a10102141d2172799b665</sys_update_version>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-21 01:31:44</sys_updated_on>
+        </sys_metadata_delete>
+    </sys_choice>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="To Do">893bdee3db131300deb217803996193b</application>
+        <file_path/>
+        <instance_id>2766a181db8fdb807d8cf22ebf9619ea</instance_id>
+        <instance_name>dev63008</instance_name>
+        <name>sys_choice_x_174012_to_do_to_do_u_status</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update&gt;&lt;sys_choice action="DELETE" field="u_status" table="x_174012_to_do_to_do" version="3"&gt;&lt;sys_choice_set action="DELETE"&gt;&lt;element&gt;u_status&lt;/element&gt;&lt;name&gt;x_174012_to_do_to_do&lt;/name&gt;&lt;sys_class_name/&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on/&gt;&lt;sys_id&gt;d5f704872f0a10102141d2172799b627&lt;/sys_id&gt;&lt;sys_mod_count/&gt;&lt;sys_name&gt;u_status&lt;/sys_name&gt;&lt;sys_package display_value="To Do" source="x_174012_to_do"&gt;893bdee3db131300deb217803996193b&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="To Do"&gt;893bdee3db131300deb217803996193b&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_choice_x_174012_to_do_to_do_u_status&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-07-21 01:53:28&lt;/sys_updated_on&gt;&lt;/sys_choice_set&gt;&lt;sys_update_version action="INSERT_OR_UPDATE"&gt;&lt;action&gt;INSERT_OR_UPDATE&lt;/action&gt;&lt;application display_value="To Do"&gt;893bdee3db131300deb217803996193b&lt;/application&gt;&lt;file_path/&gt;&lt;instance_id&gt;2766a181db8fdb807d8cf22ebf9619ea&lt;/instance_id&gt;&lt;instance_name&gt;dev63008&lt;/instance_name&gt;&lt;name&gt;sys_choice_x_174012_to_do_to_do_u_status&lt;/name&gt;&lt;payload&gt;&lt;![CDATA[&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update&gt;&lt;sys_choice action="INSERT_OR_UPDATE" field="u_status" table="x_174012_to_do_to_do" version="3"&gt;&lt;sys_choice action="INSERT_OR_UPDATE"&gt;&lt;dependent_value/&gt;&lt;element&gt;u_status&lt;/element&gt;&lt;hint/&gt;&lt;inactive&gt;false&lt;/inactive&gt;&lt;label&gt;New&lt;/label&gt;&lt;language&gt;en&lt;/language&gt;&lt;name&gt;x_174012_to_do_to_do&lt;/name&gt;&lt;sequence&gt;0&lt;/sequence&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-07-21 01:31:44&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;11f704872f0a10102141d2172799b627&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-07-21 01:31:44&lt;/sys_updated_on&gt;&lt;value&gt;new&lt;/value&gt;&lt;/sys_choice&gt;&lt;sys_choice action="INSERT_OR_UPDATE"&gt;&lt;dependent_value/&gt;&lt;element&gt;u_status&lt;/element&gt;&lt;hint/&gt;&lt;inactive&gt;false&lt;/inactive&gt;&lt;label&gt;Read&lt;/label&gt;&lt;language&gt;en&lt;/language&gt;&lt;name&gt;x_174012_to_do_to_do&lt;/name&gt;&lt;sequence&gt;1&lt;/sequence&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-07-21 01:31:44&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;51f704872f0a10102141d2172799b627&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-07-21 01:31:44&lt;/sys_updated_on&gt;&lt;value&gt;read&lt;/value&gt;&lt;/sys_choice&gt;&lt;sys_choice action="INSERT_OR_UPDATE"&gt;&lt;dependent_value/&gt;&lt;element&gt;u_status&lt;/element&gt;&lt;hint/&gt;&lt;inactive&gt;false&lt;/inactive&gt;&lt;label&gt;Deleted&lt;/label&gt;&lt;language&gt;en&lt;/language&gt;&lt;name&gt;x_174012_to_do_to_do&lt;/name&gt;&lt;sequence&gt;2&lt;/sequence&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-07-21 01:31:44&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;91f704872f0a10102141d2172799b627&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-07-21 01:31:44&lt;/sys_updated_on&gt;&lt;value&gt;deleted&lt;/value&gt;&lt;/sys_choice&gt;&lt;sys_choice action="INSERT_OR_UPDATE"&gt;&lt;dependent_value/&gt;&lt;element&gt;u_status&lt;/element&gt;&lt;hint/&gt;&lt;inactive&gt;false&lt;/inactive&gt;&lt;label&gt;Foo&lt;/label&gt;&lt;language&gt;en&lt;/language&gt;&lt;name&gt;x_174012_to_do_to_do&lt;/name&gt;&lt;sequence&gt;3&lt;/sequence&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-07-21 01:31:44&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;d1f704872f0a10102141d2172799b627&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-07-21 01:31:44&lt;/sys_updated_on&gt;&lt;value&gt;foo&lt;/value&gt;&lt;/sys_choice&gt;&lt;sys_choice_set action="INSERT_OR_UPDATE"&gt;&lt;element&gt;u_status&lt;/element&gt;&lt;name&gt;x_174012_to_do_to_do&lt;/name&gt;&lt;sys_class_name&gt;sys_choice_set&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-07-21 01:31:44&lt;/sys_created_on&gt;&lt;sys_id&gt;d5f704872f0a10102141d2172799b627&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;u_status&lt;/sys_name&gt;&lt;sys_package display_value="To Do" source="x_174012_to_do"&gt;893bdee3db131300deb217803996193b&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="To Do"&gt;893bdee3db131300deb217803996193b&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_choice_x_174012_to_do_to_do_u_status&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-07-21 01:31:44&lt;/sys_updated_on&gt;&lt;/sys_choice_set&gt;&lt;/sys_choice&gt;&lt;/record_update&gt;]]&gt;&lt;/payload&gt;&lt;payload_hash&gt;-218064509&lt;/payload_hash&gt;&lt;record_name&gt;To Do.Status&lt;/record_name&gt;&lt;reverted_from/&gt;&lt;source&gt;5357b3322f0210102141d2172799b675&lt;/source&gt;&lt;source_table&gt;sys_upgrade_history&lt;/source_table&gt;&lt;state&gt;previous&lt;/state&gt;&lt;sys_created_by/&gt;&lt;sys_created_on&gt;2020-07-21 00:19:13&lt;/sys_created_on&gt;&lt;sys_id&gt;adf704872f0a10102141d2172799b665&lt;/sys_id&gt;&lt;sys_mod_count/&gt;&lt;sys_recorded_at&gt;1736ebd17e80000000&lt;/sys_recorded_at&gt;&lt;sys_updated_by/&gt;&lt;sys_updated_on/&gt;&lt;type&gt;Choice list&lt;/type&gt;&lt;update_guid&gt;6df70487f00a1010a075bed8e9647165&lt;/update_guid&gt;&lt;update_guid_history&gt;6df70487f00a1010a075bed8e9647165:-218064509&lt;/update_guid_history&gt;&lt;/sys_update_version&gt;&lt;sys_metadata_delete action="INSERT_OR_UPDATE"&gt;&lt;sys_audit_delete/&gt;&lt;sys_class_name&gt;sys_metadata_delete&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-07-21 01:31:44&lt;/sys_created_on&gt;&lt;sys_db_object display_value="" name="sys_choice_set"&gt;sys_choice_set&lt;/sys_db_object&gt;&lt;sys_id&gt;d5f704872f0a10102141d2172799b627&lt;/sys_id&gt;&lt;sys_metadata&gt;d5f704872f0a10102141d2172799b627&lt;/sys_metadata&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;u_status&lt;/sys_name&gt;&lt;sys_package display_value="To Do" source="x_174012_to_do"&gt;893bdee3db131300deb217803996193b&lt;/sys_package&gt;&lt;sys_parent/&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="To Do"&gt;893bdee3db131300deb217803996193b&lt;/sys_scope&gt;&lt;sys_scope_delete display_value=""&gt;199cea9efacb45e090e7ffeb3b9acb09&lt;/sys_scope_delete&gt;&lt;sys_update_name&gt;sys_choice_x_174012_to_do_to_do_u_status&lt;/sys_update_name&gt;&lt;sys_update_version display_value="sys_choice_x_174012_to_do_to_do_u_status"&gt;adf704872f0a10102141d2172799b665&lt;/sys_update_version&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-07-21 01:31:44&lt;/sys_updated_on&gt;&lt;/sys_metadata_delete&gt;&lt;/sys_choice&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1683422742</payload_hash>
+        <record_name>x_174012_to_do_to_do.u_status</record_name>
+        <reverted_from/>
+        <source>ff0884872f0a10102141d2172799b653</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-21 01:53:28</sys_created_on>
+        <sys_id>33ec0c4b2f0a10102141d2172799b679</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1736f13644f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-21 01:53:28</sys_updated_on>
+        <type>Choice list</type>
+        <update_guid>bbec0c4ba80a10100e7d44d23b76c778</update_guid>
+        <update_guid_history>bbec0c4ba80a10100e7d44d23b76c778:-1683422742,33ec0c4b8d0a10104c4c522eb088d675:-50990656,b7ec0c4bbc0a1010ba6ae7cab64f3c72:1454057478,3fec0c4bcf0a101019c765f5be8a5a6f:-628536165,21f70487830a1010ac8097995a0e2872:0,6df70487f00a1010a075bed8e9647165:-218064509</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-21 01:53:36</sys_created_on>
+        <sys_db_object display_value="" name="sys_choice_set">sys_choice_set</sys_db_object>
+        <sys_id>e9fc8c4b2f0a10102141d2172799b61e</sys_id>
+        <sys_metadata>e9fc8c4b2f0a10102141d2172799b61e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_status</sys_name>
+        <sys_package display_value="To Do" source="x_174012_to_do">893bdee3db131300deb217803996193b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="To Do">893bdee3db131300deb217803996193b</sys_scope>
+        <sys_scope_delete display_value="">199cea9efacb45e090e7ffeb3b9acb09</sys_scope_delete>
+        <sys_update_name>sys_choice_x_174012_to_do_to_do_u_status</sys_update_name>
+        <sys_update_version display_value="sys_choice_x_174012_to_do_to_do_u_status">33ec0c4b2f0a10102141d2172799b679</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-21 01:53:36</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
